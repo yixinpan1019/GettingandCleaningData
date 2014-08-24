@@ -1,5 +1,5 @@
 ==================================================
-#  CodeBook for run_analysis.R
+#  CodeBook
 ## Getting and Cleaning Data Course Project
 ==================================================
 ##### General
